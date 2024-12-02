@@ -5,4 +5,4 @@ File Descriptions:
 1. DATA_ENOSE.csv contains data of E-Nose experiment on Biophysics Laboratorium of Physics Department, Airlangga University
 2. E_Nose.ipynb contains full code using python language
 3. E_NOSE_READ.pdf contains detail informations about full code
-4. Plota.png and Plot2.png is visualisation of final results.
+4. Plot1.png and Plot2.png is visualisation of final results.
